@@ -1,0 +1,21 @@
+Category,Pos Ratio,Avg Compound,Max Compound,Min Coupound
+electrical,0.246,-0.444,0.9987,-0.9994
+brakes,0.249,-0.448,0.9961,-0.9994
+seat_belts_air_bags,0.333,-0.351,0.9938,-0.9984
+suspension,0.253,-0.439,0.9991,-0.9989
+steering,0.238,-0.449,0.9981,-0.9994
+wheels_hubs,0.302,-0.386,0.9906,-0.9976
+body_paint,0.322,-0.346,0.9961,-0.9985
+fuel_system,0.266,-0.41,0.9954,-0.9996
+drivetrain,0.231,-0.469,0.9971,-0.9984
+transmission,0.286,-0.39,0.9983,-0.9994
+miscellaneous,0.346,-0.327,0.9946,-0.9991
+engine,0.242,-0.447,0.9985,-0.9997
+lights,0.292,-0.389,0.9913,-0.9983
+windows_windshield,0.299,-0.372,0.997,-0.9999
+accessories-interior,0.316,-0.342,0.9983,-0.9991
+accessories-exterior,0.289,-0.394,0.9954,-0.9991
+cooling_system,0.302,-0.368,0.9951,-0.9996
+exhaust_system,0.229,-0.46,0.9893,-0.9964
+clutch,0.242,-0.453,0.9915,-0.9982
+AC_heater,0.356,-0.296,0.9973,-0.9994
